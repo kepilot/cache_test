@@ -1,0 +1,9 @@
+
+jpython:S107’"MMethod "__init__" has 31 parameters, which is greater than the 13 authorized.( Ðàþüÿÿÿÿ
+ƒpython:S5886ã"jReturn a value of type "MonitorCommandInfo" instead of "dict" or update function "next_command" type hint.(¤ØÝ¢
+rpython:S3776•"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ö¬†éûÿÿÿÿ
+mpython:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ñüç„
+[python:S5747Ž	"BRemove this "raise" statement or move it inside an "except" block.(€³¢»
+mpython:S3776¶	"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÆÅÈß
+[python:S5747Ê
+"BRemove this "raise" statement or move it inside an "except" block.(€³¢»

@@ -1,0 +1,15 @@
+
+ypython:S3776…"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¿¨Õëûÿÿÿÿ8‡¨¯ÎÛ0
+Hpython:S108¡")Either remove or fill this block of code.(ã‘Û¾8‡¨¯ÎÛ0
+‡python:S5890ë"bAssign to "kwargs" a value of type "_HiredisReaderArgs" instead of "dict" or update its type hint.(•÷ê¶øÿÿÿÿ8‡¨¯ÎÛ0
+Ppython:S5806…"+Rename this variable; it shadows a builtin.(”…‹Øıÿÿÿÿ8‡¨¯ÎÛ0
+qpython:S107ß"MMethod "__init__" has 23 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ8‡¨¯ÎÛ0
+ypython:S3776“	"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Š×íÀøÿÿÿÿ8‡¨¯ÎÛ0
+‚python:S5890•	"]Assign to "kwargs" a value of type "ConnectKwargs" instead of "dict" or update its type hint.(‡½úÿÿÿÿ8‡¨¯ÎÛ0
+Opython:S1172è
+"/Remove the unused function parameter "options".(¥“ÂŸ8‡¨¯ÎÛ0
+Tpython:S1172è
+"4Remove the unused function parameter "command_name".(¥“ÂŸ8‡¨¯ÎÛ0
+Lpython:S1172è
+",Remove the unused function parameter "keys".(¥“ÂŸ8‡¨¯ÎÛ0
+=python:S3626¬"Remove this redundant return.(ÙãŞŸ8‡¨¯ÎÛ0

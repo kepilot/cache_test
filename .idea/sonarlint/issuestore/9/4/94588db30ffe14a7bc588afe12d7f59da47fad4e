@@ -1,0 +1,14 @@
+
+qpython:S1192§"LDefine a constant instead of duplicating this literal "%s is empty" 7 times.(ÃÁ¶‰ÿÿÿÿÿ8ê±îÐÛ0
+Ipython:S5806„"+Rename this variable; it shadows a builtin.(Úþ_8ê±îÐÛ0
+Ipython:S1940ž")Use the opposite operator (">=") instead.(ê€ƒ±8ê±îÐÛ0
+Ipython:S1940·")Use the opposite operator (">=") instead.(á³šÿ8ê±îÐÛ0
+Npython:S1940Û")Use the opposite operator (">=") instead.(Ñúœëùÿÿÿÿ8ê±îÐÛ0
+Kpython:S5806Þ"+Rename this variable; it shadows a builtin.(Ñ„¬Ž8ë±îÐÛ0
+Npython:S1940š")Use the opposite operator (">=") instead.(å‹…ýÿÿÿÿ8ë±îÐÛ0
+Ipython:S1940£")Use the opposite operator (">=") instead.(™µÝ8ë±îÐÛ0
+Ipython:S1940¶")Use the opposite operator (">=") instead.(àà¶Â8ë±îÐÛ0
+Hpython:S1940Ð")Use the opposite operator (">=") instead.(œœÇ8ë±îÐÛ0
+ypython:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(§ó¼¹ÿÿÿÿÿ8ë±îÐÛ0
+{python:S1186ö"[Add a nested comment explaining why this function is empty, or complete the implementation.(ÏÛé²8ë±îÐÛ0
+ypython:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(„¤Ðìúÿÿÿÿ8ë±îÐÛ0

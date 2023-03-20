@@ -1,0 +1,16 @@
+
+mpython:S3776´"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(³÷ÙÓ
+Apython:S108ğ")Either remove or fill this block of code.(ã‘Û¾
+Cpython:S1481"%Remove the unused local variable "i".(·ÿÎƒüÿÿÿÿ
+gpython:S1226—"NIntroduce a new variable or use its initial value before reassigning 'kwargs'.(Üº ‚
+jpython:S107ÿ"MMethod "__init__" has 22 parameters, which is greater than the 13 authorized.( Ğàşüÿÿÿÿ
+Jpython:S1172ú",Remove the unused function parameter "args".(–£³Šıÿÿÿÿ
+`python:S5799×"GMerge these implicitly concatenated strings; or did you forget a comma?(®Ç…
+mpython:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ş £Ã
+Jpython:S4423",Change this code to use a stronger protocol.(‡şÓµüÿÿÿÿ
+rpython:S3776³	"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(äæ—úıÿÿÿÿ
+Rpython:S1172‡"4Remove the unused function parameter "command_name".(ƒç“Âıÿÿÿÿ
+Mpython:S1172‡"/Remove the unused function parameter "options".(ƒç“Âıÿÿÿÿ
+Jpython:S1172‡",Remove the unused function parameter "keys".(ƒç“Âıÿÿÿÿ
+6python:S3626Ë"Remove this redundant return.(ÙãŞŸ
+Gpython:S2638†")Add missing parameters inuse_connections.(³Ö·Íúÿÿÿÿ
